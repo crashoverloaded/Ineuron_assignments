@@ -1,0 +1,28 @@
+root - 2022-07-01 17:50:52,212 - INFO - main log
+logger1.area1 - 2022-07-01 17:50:52,214 - INFO - INFO log of the first logger
+logger2.area2 - 2022-07-01 17:50:52,215 - DEBUG - Debug log for the second logger
+user1 - 2022-07-01 17:50:52,216 - DEBUG - DEBUG of user1
+root - 2022-07-01 17:51:58,024 - INFO - main log
+logger1.area1 - 2022-07-01 17:51:58,036 - INFO - INFO log of the first logger
+logger2.area2 - 2022-07-01 17:51:58,039 - DEBUG - Debug log for the second logger
+logger2.area2 - 2022-07-01 17:51:58,041 - INFO - INFO log for second logger
+user1 - 2022-07-01 17:51:58,044 - INFO - INFO of user1
+user1 - 2022-07-01 17:51:58,055 - DEBUG - DEBUG of user1
+root - 2022-07-01 17:52:06,010 - INFO - main log
+logger1.area1 - 2022-07-01 17:52:06,012 - INFO - INFO log of the first logger
+logger2.area2 - 2022-07-01 17:52:06,014 - DEBUG - Debug log for the second logger
+logger2.area2 - 2022-07-01 17:52:06,015 - INFO - INFO log for second logger
+user1 - 2022-07-01 17:52:06,017 - INFO - INFO of user1
+user1 - 2022-07-01 17:52:06,018 - DEBUG - DEBUG of user1
+parso.cache - 2022-07-01 18:00:10,517 - DEBUG - pickle loaded: /home/crashoverload/.local/lib/python3.9/site-packages/jedi/third_party/typeshed/stdlib/2and3/builtins.pyi
+parso.cache - 2022-07-01 18:00:10,570 - DEBUG - pickle loaded: /home/crashoverload/.local/lib/python3.9/site-packages/jedi/third_party/typeshed/stdlib/3/sys.pyi
+parso.python.diff - 2022-07-01 18:00:12,093 - DEBUG - diff parser start
+parso.python.diff - 2022-07-01 18:00:12,097 - DEBUG - line_lengths old: 1; new: 1
+parso.python.diff - 2022-07-01 18:00:12,101 - DEBUG - -> code[replace] old[1:1] new[1:1]
+parso.python.diff - 2022-07-01 18:00:12,114 - DEBUG - parse_part from 1 to 1 (to 0 in part parser)
+parso.python.diff - 2022-07-01 18:00:12,120 - DEBUG - diff parser end
+parso.python.diff - 2022-07-01 18:04:17,752 - DEBUG - diff parser start
+parso.python.diff - 2022-07-01 18:04:17,754 - DEBUG - line_lengths old: 1; new: 3
+parso.python.diff - 2022-07-01 18:04:17,756 - DEBUG - -> code[replace] old[1:1] new[1:3]
+parso.python.diff - 2022-07-01 18:04:17,797 - DEBUG - parse_part from 1 to 3 (to 2 in part parser)
+parso.python.diff - 2022-07-01 18:04:17,797 - DEBUG - diff parser end

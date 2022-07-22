@@ -1,0 +1,10 @@
+INFO:root:This is start of function
+INFO:root:This is start of function
+INFO:root:This is start of function
+INFO:root:This is start of function and Inputs are: a = 5 and b = 6
+INFO:root:This is start of function and Inputs are: a = 21 and b = 3
+INFO:root:I am going to start my program
+WARNING:root:This is first warning of my program
+ERROR:root:This is error message
+INFO:root:This is start of function and Inputs are: a = 5 and b = 6
+INFO:root:This is start of function and Inputs are: a = 21 and b = 3

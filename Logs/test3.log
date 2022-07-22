@@ -1,0 +1,24 @@
+2022-07-01 17:05:28,466 DEBUG pickle loaded: /home/crashoverload/.local/lib/python3.9/site-packages/jedi/third_party/typeshed/stdlib/2and3/builtins.pyi
+2022-07-01 17:05:28,487 DEBUG pickle loaded: /home/crashoverload/anaconda3/lib/python3.9/logging/__init__.py
+2022-07-01 17:05:28,499 DEBUG pickle loaded: /home/crashoverload/.local/lib/python3.9/site-packages/jedi/third_party/typeshed/stdlib/2and3/logging/__init__.pyi
+2022-07-01 17:05:28,692 DEBUG pickle loaded: /home/crashoverload/.local/lib/python3.9/site-packages/jedi/third_party/typeshed/stdlib/3/sys.pyi
+2022-07-01 17:07:36,751 DEBUG diff parser start
+2022-07-01 17:07:36,752 DEBUG line_lengths old: 15; new: 19
+2022-07-01 17:07:36,752 DEBUG -> code[equal] old[1:14] new[1:14]
+2022-07-01 17:07:36,754 DEBUG copy old[2:14] new[1:14]
+2022-07-01 17:07:36,755 DEBUG -> code[replace] old[15:15] new[15:19]
+2022-07-01 17:07:36,757 DEBUG parse_part from 15 to 19 (to 18 in part parser)
+2022-07-01 17:07:36,758 DEBUG diff parser end
+2022-07-01 17:07:52,568 DEBUG diff parser start
+2022-07-01 17:07:52,568 DEBUG line_lengths old: 19; new: 19
+2022-07-01 17:07:52,568 DEBUG -> code[equal] old[1:18] new[1:18]
+2022-07-01 17:07:52,569 DEBUG copy old[2:15] new[1:15]
+2022-07-01 17:07:52,571 DEBUG parse_part from 16 to 19 (to 18 in part parser)
+2022-07-01 17:07:52,572 DEBUG -> code[replace] old[19:19] new[19:19]
+2022-07-01 17:07:52,572 DEBUG diff parser end
+2022-07-01 17:13:23,120 INFO INFO log of the first logger
+2022-07-01 17:13:23,124 DEBUG Debug log for the second logger
+2022-07-01 17:13:23,124 INFO INFO log for second logger
+2022-07-01 17:14:00,279 INFO INFO log of the first logger
+2022-07-01 17:14:00,285 DEBUG Debug log for the second logger
+2022-07-01 17:14:00,286 INFO INFO log for second logger
